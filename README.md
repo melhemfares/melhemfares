@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melhemfares
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me faresm0305@gmail.com
 
 <!---
