@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Melhem Fares</h1>
 <h3 align="center">2nd Year York University Computer Science Student</h3>
 
-- 🌱 I’m currently learning **The MERN stack (that's right, I'm learning React)**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Vue.js (my preferred framework)**
+- 💬 Ask me about **literally anything**
 
 - 📫 How to reach me **faresm0305@gmail.com**
 
-- ⚡ Fun fact **I don't like eggplant**
+- ⚡ Fun fact **I kinda like eggplant now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
