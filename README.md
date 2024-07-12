@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **faresm0305@gmail.com**
 
-- ⚡ Check out my latest project -- **prayer-cards-app**
+- ⚡ Check out my latest project -- **prayer-card-app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
