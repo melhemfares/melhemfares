@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **faresm0305@gmail.com**
 
-- ⚡ Fun fact **I kinda like eggplant now**
+- ⚡ Check out my latest project -- **prayer-cards-app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
