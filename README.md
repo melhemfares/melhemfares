@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melhem Fares</h1>
-<h3 align="center">2nd Year York University Computer Science Student</h3>
+<h3 align="center">3rd Year York University Computer Science Student</h3>
 
 - 🌱 I’m currently learning **React Native**
 
